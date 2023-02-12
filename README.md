@@ -16,8 +16,10 @@ About Me 🤓!!
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-<img align="left" style='background-color:#EDF2F7' alt="RobotFramework" width="26px" src="https://raw.githubusercontent.com/github/explore/2b3e58e3cf32266b6856dbe97a33fde4e542170c/topics/robotframework/robotframework.png"/>
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/29734506/218331527-9a4775e1-8a31-42a7-9c98-b94a07515a25.png">
+<img align="left" style="background-color:#FFFFFF" alt="RobotFramework" width="26px" src="https://raw.githubusercontent.com/github/explore/2b3e58e3cf32266b6856dbe97a33fde4e542170c/topics/robotframework/robotframework.png"/>
+</picture>
 <br />
 <br />
  <details>
