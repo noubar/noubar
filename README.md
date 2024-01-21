@@ -2,10 +2,10 @@
 
 About Me 🤓!!
 
-- 📚 Currently learning Flutter/Dart 📱💻
+- 📚 Currently experimenting Flutter/Dart 📱💻
 - 🔥 Fan of learning by doing 🔨 Passionate about collaborating with other developers 🤝
 - ⚡ Fun Facts about me: several years of experience in e2e Test Automation 🤖 and Engineering title in IT-Security 🔒
-- 🎯 2023 Goal: Achieve the status of Mid-Level Software Engineer 👨‍💻
+- 🎯 2024 Goal: Achieve the status of Senior-Level Software Engineer 👨‍💻
 
 <br>
   
