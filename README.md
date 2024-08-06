@@ -2,7 +2,7 @@
 
 About Me 🤓!!
 
-- 📚 Currently experimenting Flutter/Dart 📱💻 and AI
+- 📚 Currently experimenting Flutter/Dart 📱💻 and AI and Quantum Computing ⚛️
 - 🔥 Fan of learning by doing 🔨 Passionate about collaborating with other developers 🤝
 - ⚡ Fun Facts about me: several years of experience in e2e Test Automation 🤖 and Engineering title in IT-Security 🔒
 - 🎯 2024 Goal: Achieve the status of Senior-Level Software Engineer 👨‍💻
