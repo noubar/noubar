@@ -5,7 +5,7 @@ About Me 🤓!!
 - 📚 Currently experimenting Flutter/Dart 📱💻 and AI and Quantum Computing ⚛️
 - 🔥 Fan of learning by doing 🔨 Passionate about collaborating with other developers 🤝
 - ⚡ Fun Facts about me: several years of experience in e2e Test Automation 🤖 and Engineering title in IT-Security 🔒
-- 🎯 2025 Goal: Achieve the status of Senior-Level Software Engineer 👨‍💻
+- 🎯 2026 Goal: Achieve the status of Senior-Level Software Engineer 👨‍💻
 
 <br>
   
@@ -20,6 +20,7 @@ About Me 🤓!!
  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/29734506/218331527-9a4775e1-8a31-42a7-9c98-b94a07515a25.png">
 <img align="left" style="background-color:#FFFFFF" alt="RobotFramework" width="26px" src="https://raw.githubusercontent.com/github/explore/2b3e58e3cf32266b6856dbe97a33fde4e542170c/topics/robotframework/robotframework.png"/>
 </picture>
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
 <br />
 <br />
  <details>
