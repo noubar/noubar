@@ -4,8 +4,7 @@ About Me 🤓!!
 
 - 📚 Currently experimenting Flutter/Dart 📱💻 and AI and Quantum Computing ⚛️
 - 🔥 Fan of learning by doing 🔨 Passionate about collaborating with other developers 🤝
-- ⚡ Fun Facts about me: several years of experience in e2e Test Automation 🤖 and Engineering title in IT-Security 🔒
-- 🎯 2026 Goal: Achieve the status of Senior-Level Software Engineer 👨‍💻
+- ⚡ Fun Facts about me: several years of experience in Test Automation 🤖 DevOps and Engineering title in IT-Security 🔒
 
 <br>
   
@@ -21,14 +20,6 @@ About Me 🤓!!
 <img align="left" style="background-color:#FFFFFF" alt="RobotFramework" width="26px" src="https://raw.githubusercontent.com/github/explore/2b3e58e3cf32266b6856dbe97a33fde4e542170c/topics/robotframework/robotframework.png"/>
 </picture>
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/2b3e58e3cf32266b6856dbe97a33fde4e542170c/topics/javascript/javascript.png"/>
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/2b3e58e3cf32266b6856dbe97a33fde4e542170c/topics/java/java.png"/>
 <br />
-<br />
- <details>
-    <summary>Most Used Languages</summary>
-      <img align="top" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noubar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
-  </details>
-  
-  <details>
-    <summary>Github Stats</summary>
-      <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=noubar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
-  </details>
